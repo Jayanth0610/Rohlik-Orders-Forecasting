@@ -3,4 +3,6 @@ This project focuses on forecasting grocery delivery orders for Rohlik warehouse
 across multiple regions. Accurate demand forecasting is crucial for inventory optimization,
 workforce planning, and timely customer deliveries. The objective was to build a robust machine learning pipeline capable of predicting order volumes for the next 60 days, while capturing seasonal, regional, and holiday-based variations in customer behavior.
 
+Link to Kaggle : https://www.kaggle.com/code/jayanthkumar0610/rohlik-orders-forecasting
+
 
